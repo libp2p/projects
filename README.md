@@ -1,2 +1,3 @@
 # projects
-A repo of sub-projects within libp2p for contributors to pick up
+
+![alt text](https://github.com/libp2p/projects/blob/master/assets/work-packages-workflow.png.001.png)
